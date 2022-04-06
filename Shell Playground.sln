@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell Playground.Android", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell Playground.iOS", "Shell Playground.iOS\Shell Playground.iOS.csproj", "{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell Playground", "Shell Playground\Shell Playground.csproj", "{C4432812-59FB-4BA5-9417-0F6BF72DCB49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shell Playground", "Shell Playground\Shell Playground.csproj", "{C4432812-59FB-4BA5-9417-0F6BF72DCB49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,7 +38,6 @@ Global
 		{CFD563FA-A508-4990-B6F6-B9D101B85550}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{CFD563FA-A508-4990-B6F6-B9D101B85550}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
 		{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}.Debug|Any CPU.Deploy.0 = Debug|iPhone
 		{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{016CD1CA-88C9-4C22-89AE-CA3C2B6163FF}.Debug|iPhone.Build.0 = Debug|iPhone
